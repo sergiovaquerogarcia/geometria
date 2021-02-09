@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Circulo_SVG"},{"p":"<Unnamed>","l":"FiguraGeometrica_SVG"},{"p":"<Unnamed>","l":"Rectangulo_SVG"},{"p":"<Unnamed>","l":"Triangulo_SVG"}]
