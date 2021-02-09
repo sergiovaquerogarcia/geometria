@@ -1,7 +1,7 @@
 
 public class Circulo extends FiguraGeometrica {
 	private double radio;
-	//Constante pi
+	//Constante pi 
 	static final double PI = 3.1416;
 	
 	public Circulo(double r, String tipoFigura) {
